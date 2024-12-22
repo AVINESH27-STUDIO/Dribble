@@ -336,10 +336,11 @@ footer {
         font-size: 1em;
     }
 }
-``
+```
 
 ## OUTPUT:
-c:\Users\admin\OneDrive\Hình ảnh\Screenshots\Screenshot 2024-12-22 152830.png
+![Screenshot 2024-12-22 164235](https://github.com/user-attachments/assets/1a08dc56-cee8-44b9-b617-41c6ae6bad92)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
